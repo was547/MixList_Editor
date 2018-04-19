@@ -3,7 +3,6 @@ id=0
 Face=0
 Gold=0
 Item=0,0,0,0,0,0,0
-Map=0,0
 Type=0
 ItemRequire[0]=0,0
 ItemRequire[1]=0,0
@@ -13,9 +12,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -23,7 +19,6 @@ id=1
 Face=68
 Gold=0
 Item=3447,61,10,61,10,0,0
-Map=19,15
 Type=723
 ItemRequire[0]=1,1
 ItemRequire[1]=2,1
@@ -33,9 +28,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -43,7 +35,6 @@ id=2
 Face=68
 Gold=0
 Item=4148,61,10,61,10,0,0
-Map=19,15
 Type=723
 ItemRequire[0]=3,1
 ItemRequire[1]=3,1
@@ -53,9 +44,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -63,7 +51,6 @@ id=3
 Face=68
 Gold=0
 Item=10000,0,0,0,0,0,0
-Map=19,15
 Type=723
 ItemRequire[0]=5,1
 ItemRequire[1]=5,1
@@ -73,9 +60,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -83,7 +67,6 @@ id=4
 Face=68
 Gold=0
 Item=10023,0,0,0,0,0,0
-Map=19,15
 Type=723
 ItemRequire[0]=5,1
 ItemRequire[1]=5,1
@@ -93,9 +76,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -103,7 +83,6 @@ id=5
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -113,9 +92,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -123,7 +99,6 @@ id=6
 Face=68
 Gold=0
 Item=10001,0,0,0,0,0,0
-Map=19,15
 Type=723
 ItemRequire[0]=1,1
 ItemRequire[1]=8,1
@@ -133,9 +108,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -143,7 +115,6 @@ id=7
 Face=68
 Gold=1000000
 Item=10024,0,0,0,0,0,0
-Map=19,15
 Type=723
 ItemRequire[0]=30,1
 ItemRequire[1]=31,1
@@ -153,9 +124,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -163,7 +131,6 @@ id=8
 Face=68
 Gold=1000000
 Item=10025,0,0,0,0,0,0
-Map=19,15
 Type=723
 ItemRequire[0]=30,1
 ItemRequire[1]=4899,0
@@ -173,9 +140,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -183,7 +147,6 @@ id=9
 Face=68
 Gold=0
 Item=10002,0,0,0,0,0,0
-Map=19,15
 Type=723
 ItemRequire[0]=1,2
 ItemRequire[1]=0,0
@@ -193,9 +156,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -203,7 +163,6 @@ id=10
 Face=56
 Gold=0
 Item=10003,0,0,0,0,0,0
-Map=19,13
 Type=954
 ItemRequire[0]=11,1
 ItemRequire[1]=20,1
@@ -213,9 +172,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -223,7 +179,6 @@ id=11
 Face=54
 Gold=0
 Item=10004,0,0,0,0,0,0
-Map=19,13
 Type=934
 ItemRequire[0]=23,1
 ItemRequire[1]=9,1
@@ -233,9 +188,6 @@ ItemRequire[4]=12,1
 ItemRequire[5]=12,1
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -243,7 +195,6 @@ id=12
 Face=55
 Gold=50000000
 Item=10005,0,0,0,0,0,0
-Map=19,13
 Type=949
 ItemRequire[0]=2,1
 ItemRequire[1]=2,1
@@ -253,9 +204,6 @@ ItemRequire[4]=9,1
 ItemRequire[5]=9,1
 ItemRequire[6]=9,1
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -263,7 +211,6 @@ id=13
 Face=67
 Gold=0
 Item=10006,0,0,0,0,0,0
-Map=28,24
 Type=708
 ItemRequire[0]=24,1
 ItemRequire[1]=24,1
@@ -273,9 +220,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -283,7 +227,6 @@ id=14
 Face=66
 Gold=0
 Item=3464,0,0,0,0,0,0
-Map=25,13
 Type=742
 ItemRequire[0]=673,0
 ItemRequire[1]=674,0
@@ -293,9 +236,6 @@ ItemRequire[4]=677,0
 ItemRequire[5]=770,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -303,7 +243,6 @@ id=15
 Face=0
 Gold=0
 Item=3200,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=413,0
 ItemRequire[1]=2441,0
@@ -313,9 +252,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -323,7 +259,6 @@ id=16
 Face=0
 Gold=0
 Item=3201,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=413,0
 ItemRequire[1]=2443,0
@@ -333,9 +268,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -343,7 +275,6 @@ id=17
 Face=0
 Gold=0
 Item=3202,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=18,1
 ItemRequire[1]=0,0
@@ -353,9 +284,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -363,7 +291,6 @@ id=18
 Face=0
 Gold=0
 Item=3203,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=19,1
 ItemRequire[1]=697,0
@@ -373,9 +300,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -383,7 +307,6 @@ id=19
 Face=0
 Gold=0
 Item=3204,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=412,0
 ItemRequire[1]=2441,0
@@ -393,9 +316,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -403,7 +323,6 @@ id=20
 Face=0
 Gold=0
 Item=3205,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=412,0
 ItemRequire[1]=2444,0
@@ -413,9 +332,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -423,7 +339,6 @@ id=21
 Face=67
 Gold=0
 Item=10007,0,0,0,0,0,0
-Map=25,13
 Type=738
 ItemRequire[0]=15,1
 ItemRequire[1]=16,1
@@ -433,9 +348,6 @@ ItemRequire[4]=5335,0
 ItemRequire[5]=5336,0
 ItemRequire[6]=5337,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -443,7 +355,6 @@ id=22
 Face=67
 Gold=0
 Item=10008,0,0,0,0,0,0
-Map=25,13
 Type=722
 ItemRequire[0]=27,1
 ItemRequire[1]=27,1
@@ -453,9 +364,6 @@ ItemRequire[4]=28,1
 ItemRequire[5]=28,1
 ItemRequire[6]=28,1
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -463,7 +371,6 @@ id=23
 Face=67
 Gold=0
 Item=5134,0,0,0,0,0,0
-Map=25,13
 Type=722
 ItemRequire[0]=21,1
 ItemRequire[1]=0,0
@@ -473,9 +380,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -483,7 +387,6 @@ id=24
 Face=67
 Gold=0
 Item=10009,0,0,0,0,0,0
-Map=25,13
 Type=722
 ItemRequire[0]=19,1
 ItemRequire[1]=5135,0
@@ -493,9 +396,6 @@ ItemRequire[4]=3,1
 ItemRequire[5]=3,1
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -503,7 +403,6 @@ id=25
 Face=67
 Gold=0
 Item=10010,0,0,0,0,0,0
-Map=25,13
 Type=722
 ItemRequire[0]=3,1
 ItemRequire[1]=3,1
@@ -513,9 +412,6 @@ ItemRequire[4]=3,1
 ItemRequire[5]=3,1
 ItemRequire[6]=3,1
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -523,7 +419,6 @@ id=26
 Face=67
 Gold=1000000
 Item=4032,0,0,0,0,0,0
-Map=25,13
 Type=722
 ItemRequire[0]=421,0
 ItemRequire[1]=422,0
@@ -533,9 +428,6 @@ ItemRequire[4]=425,0
 ItemRequire[5]=426,0
 ItemRequire[6]=427,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -543,7 +435,6 @@ id=27
 Face=67
 Gold=0
 Item=10011,0,0,0,0,0,0
-Map=25,13
 Type=722
 ItemRequire[0]=19,1
 ItemRequire[1]=5135,0
@@ -553,9 +444,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -563,7 +451,6 @@ id=28
 Face=1
 Gold=0
 Item=10012,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2441,0
 ItemRequire[1]=2441,0
@@ -573,9 +460,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -583,7 +467,6 @@ id=29
 Face=1
 Gold=0
 Item=10013,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2442,0
 ItemRequire[1]=2442,0
@@ -593,9 +476,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -603,7 +483,6 @@ id=30
 Face=1
 Gold=0
 Item=10014,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2443,0
 ItemRequire[1]=2443,0
@@ -613,9 +492,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -623,7 +499,6 @@ id=31
 Face=1
 Gold=0
 Item=10015,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2444,0
 ItemRequire[1]=2444,0
@@ -633,9 +508,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -643,7 +515,6 @@ id=32
 Face=1
 Gold=0
 Item=10016,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2441,0
 ItemRequire[1]=2442,0
@@ -653,9 +524,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -663,7 +531,6 @@ id=33
 Face=1
 Gold=0
 Item=10017,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2441,0
 ItemRequire[1]=2443,0
@@ -673,9 +540,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -683,7 +547,6 @@ id=34
 Face=1
 Gold=0
 Item=10018,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2442,0
 ItemRequire[1]=2443,0
@@ -693,9 +556,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -703,7 +563,6 @@ id=35
 Face=1
 Gold=0
 Item=10019,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2442,0
 ItemRequire[1]=2441,0
@@ -713,9 +572,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -723,7 +579,6 @@ id=36
 Face=1
 Gold=0
 Item=10020,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2443,0
 ItemRequire[1]=2442,0
@@ -733,9 +588,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -743,7 +595,6 @@ id=37
 Face=1
 Gold=0
 Item=10021,0,0,0,0,0,0
-Map=0,0
 Type=723
 ItemRequire[0]=2444,0
 ItemRequire[1]=2441,0
@@ -753,9 +604,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -763,7 +611,6 @@ id=38
 Face=67
 Gold=0
 Item=10022,0,0,0,0,0,0
-Map=13,13
 Type=707
 ItemRequire[0]=4,1
 ItemRequire[1]=4,1
@@ -773,9 +620,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -783,7 +627,6 @@ id=39
 Face=0
 Gold=0
 Item=3206,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=32,1
 ItemRequire[1]=2441,0
@@ -793,9 +636,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -803,7 +643,6 @@ id=40
 Face=0
 Gold=0
 Item=3207,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=612,0
 ItemRequire[1]=613,0
@@ -813,9 +652,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -823,7 +659,6 @@ id=41
 Face=0
 Gold=0
 Item=3208,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=33,1
 ItemRequire[1]=2443,0
@@ -833,9 +668,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -843,7 +675,6 @@ id=42
 Face=0
 Gold=0
 Item=3209,0,0,0,0,0,0
-Map=0,0
 Type=737
 ItemRequire[0]=34,1
 ItemRequire[1]=697,0
@@ -853,9 +684,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -863,7 +691,6 @@ id=43
 Face=66
 Gold=0
 Item=679,0,0,0,0,0,0
-Map=25,13
 Type=745
 ItemRequire[0]=677,0
 ItemRequire[1]=677,0
@@ -873,9 +700,6 @@ ItemRequire[4]=0,0
 ItemRequire[5]=0,0
 ItemRequire[6]=0,0
 ItemRequire[7]=0,0
-Unk20=0
-Unk24=0
-
 end;
 
 
@@ -883,7 +707,6 @@ id=44
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -893,9 +716,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -903,7 +723,6 @@ id=45
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -913,9 +732,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -923,7 +739,6 @@ id=46
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -933,9 +748,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -943,7 +755,6 @@ id=47
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -953,9 +764,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -963,7 +771,6 @@ id=48
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -973,9 +780,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -983,7 +787,6 @@ id=49
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -993,9 +796,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1003,7 +803,6 @@ id=50
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1013,9 +812,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1023,7 +819,6 @@ id=51
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1033,9 +828,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1043,7 +835,6 @@ id=52
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1053,9 +844,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1063,7 +851,6 @@ id=53
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1073,9 +860,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1083,7 +867,6 @@ id=54
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1093,9 +876,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1103,7 +883,6 @@ id=55
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1113,9 +892,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1123,7 +899,6 @@ id=56
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1133,9 +908,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1143,7 +915,6 @@ id=57
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1153,9 +924,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1163,7 +931,6 @@ id=58
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1173,9 +940,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1183,7 +947,6 @@ id=59
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1193,9 +956,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1203,7 +963,6 @@ id=60
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1213,9 +972,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1223,7 +979,6 @@ id=61
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1233,9 +988,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1243,7 +995,6 @@ id=62
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1253,9 +1004,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1263,7 +1011,6 @@ id=63
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1273,9 +1020,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1283,7 +1027,6 @@ id=64
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1293,9 +1036,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1303,7 +1043,6 @@ id=65
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1313,9 +1052,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1323,7 +1059,6 @@ id=66
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1333,9 +1068,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1343,7 +1075,6 @@ id=67
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1353,9 +1084,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1363,7 +1091,6 @@ id=68
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1373,9 +1100,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1383,7 +1107,6 @@ id=69
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1393,9 +1116,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1403,7 +1123,6 @@ id=70
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1413,9 +1132,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1423,7 +1139,6 @@ id=71
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1433,9 +1148,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1443,7 +1155,6 @@ id=72
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1453,9 +1164,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1463,7 +1171,6 @@ id=73
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1473,9 +1180,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1483,7 +1187,6 @@ id=74
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1493,9 +1196,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1503,7 +1203,6 @@ id=75
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1513,9 +1212,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1523,7 +1219,6 @@ id=76
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1533,9 +1228,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1543,7 +1235,6 @@ id=77
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1553,9 +1244,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1563,7 +1251,6 @@ id=78
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1573,9 +1260,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1583,7 +1267,6 @@ id=79
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1593,9 +1276,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1603,7 +1283,6 @@ id=80
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1613,9 +1292,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1623,7 +1299,6 @@ id=81
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1633,9 +1308,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1643,7 +1315,6 @@ id=82
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1653,9 +1324,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1663,7 +1331,6 @@ id=83
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1673,9 +1340,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1683,7 +1347,6 @@ id=84
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1693,9 +1356,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1703,7 +1363,6 @@ id=85
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1713,9 +1372,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1723,7 +1379,6 @@ id=86
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1733,9 +1388,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1743,7 +1395,6 @@ id=87
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1753,9 +1404,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1763,7 +1411,6 @@ id=88
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1773,9 +1420,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1783,7 +1427,6 @@ id=89
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1793,9 +1436,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1803,7 +1443,6 @@ id=90
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1813,9 +1452,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1823,7 +1459,6 @@ id=91
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1833,9 +1468,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1843,7 +1475,6 @@ id=92
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1853,9 +1484,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1863,7 +1491,6 @@ id=93
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1873,9 +1500,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1883,7 +1507,6 @@ id=94
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1893,9 +1516,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1903,7 +1523,6 @@ id=95
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1913,9 +1532,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1923,7 +1539,6 @@ id=96
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1933,9 +1548,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1943,7 +1555,6 @@ id=97
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1953,9 +1564,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1963,7 +1571,6 @@ id=98
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1973,9 +1580,6 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 
 
@@ -1983,7 +1587,6 @@ id=99
 Face=-842150451
 Gold=-842150451
 Item=52685,205,205,205,205,205,205
-Map=-842150451,-842150451
 Type=-12851
 ItemRequire[0]=-842150451,-842150451
 ItemRequire[1]=-842150451,-842150451
@@ -1993,8 +1596,5 @@ ItemRequire[4]=-842150451,-842150451
 ItemRequire[5]=-842150451,-842150451
 ItemRequire[6]=-842150451,-842150451
 ItemRequire[7]=-842150451,-842150451
-Unk20=-842150451
-Unk24=-12851
-
 end;
 

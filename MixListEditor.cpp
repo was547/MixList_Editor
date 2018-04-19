@@ -126,7 +126,7 @@ bool Csv2Bin()
 					exit(0);
 				}
 
-				MixData.npcs[line].Unknow_20 = value;
+				//MixData.npcs[line].Unknow_20 = value;
 			}
 			else if (strcmp(cmd, "Unk24") == 0)
 			{
@@ -136,7 +136,7 @@ bool Csv2Bin()
 					exit(0);
 				}
 
-				MixData.npcs[line].Unknow_24 = value;
+				//MixData.npcs[line].Unknow_24 = value;
 			}
 		}
 		else if (sscanf_s(currentline, "%[^=]=%s", cmd, _countof(cmd), cmd2, _countof(cmd2)) == 2)
@@ -361,7 +361,7 @@ bool Csv2Bin()
 					exit(0);
 				}
 
-				MixData.Req[line].Strdef = value;
+				//MixData.Req[line].Strdef = value;
 			}
 			else if (strcmp(cmd, "Unk") == 0)
 			{
@@ -381,7 +381,7 @@ bool Csv2Bin()
 					exit(0);
 				}
 
-				MixData.Req[line].Unused = value;
+				//MixData.Req[line].Unused = value;
 			}
 			else if (strcmp(cmd, "Unused2") == 0)
 			{
@@ -391,7 +391,7 @@ bool Csv2Bin()
 					exit(0);
 				}
 
-				MixData.Req[line].Unused_02 = value;
+				//MixData.Req[line].Unused_02 = value;
 			}
 		}
 		else if (sscanf_s(currentline, "%[^=]=%s", cmd, _countof(cmd), cmd2, _countof(cmd2)) == 2)
@@ -469,7 +469,7 @@ bool Bin2Csv()
 		sprintf(npcLine, "Map=%d,%d",
 			MixData.npcs[i].MapX,MixData.npcs[i].MapY);
 
-		FilePuts("NPCS", npcLine);
+		//FilePuts("NPCS", npcLine);
 
 		sprintf(npcLine, "Type=%d",
 			MixData.npcs[i].Type);
@@ -490,7 +490,7 @@ bool Bin2Csv()
 			MixData.npcs[i].Unknow_20,
 			MixData.npcs[i].Unknow_24);
 
-		FilePuts("NPCS", npcLine);
+		//FilePuts("NPCS", npcLine);
 		FilePuts("NPCS", "end;\n");
 
 		/* ITENS */
@@ -512,12 +512,12 @@ bool Bin2Csv()
 		sprintf(itemLine, "Strdef=%d",
 			MixData.Req[i].Strdef);
 
-		FilePuts("ITENS", itemLine);
+		//FilePuts("ITENS", itemLine);
 
 		sprintf(itemLine, "Unk=%d\nUnused=%d\nUnused2=%d\n",
 			MixData.Req[i].Unk, MixData.Req[i].Unused, MixData.Req[i].Unused_02);
 
-		FilePuts("ITENS", itemLine);
+		//FilePuts("ITENS", itemLine);
 		FilePuts("ITENS", "end;\n");
 	}
 
